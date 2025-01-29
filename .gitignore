@@ -1,0 +1,27 @@
+# Go build artifacts
+/goTagFiles
+*.exe
+*.out
+*.o
+*.a
+*.so
+
+# Go dependencies
+/vendor/
+go.sum
+
+# Editor and OS-specific files
+.vscode/
+.idea/
+*.iml
+.DS_Store
+*~
+
+# Logs and debug files
+*.log
+*.test
+*.prof
+
+# Temporary files
+/tmp/
+
